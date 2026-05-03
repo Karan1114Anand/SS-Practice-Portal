@@ -7,7 +7,7 @@ from pathlib import Path
 
 # ── CONFIG ────────────────────────────────────────────────────────────────────
 st.set_page_config(
-    page_title="BSTS102P — Practice Portal",
+    page_title="SS— Practice Portal",
     layout="wide",
     initial_sidebar_state="collapsed",
 )
